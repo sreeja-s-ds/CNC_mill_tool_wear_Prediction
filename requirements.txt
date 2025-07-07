@@ -1,8 +1,6 @@
 streamlit
-tensorflow
 pandas
 numpy>=1.23
-scikit-learn
-joblib
+tensorflow>=2.15
 fpdf2
-keras
+joblib
