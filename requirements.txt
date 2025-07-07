@@ -1,6 +1,6 @@
-streamlit>=1.33
-pandas>=2.2
-numpy>=1.26
-tensorflow>=2.16
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.23
+tensorflow>=2.15
 fpdf2>=2.7
 joblib>=1.3
