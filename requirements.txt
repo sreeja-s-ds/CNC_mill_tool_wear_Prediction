@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+pandas
+numpy
+scikit-learn
+joblib
+fpdf2
+base64
+keras
